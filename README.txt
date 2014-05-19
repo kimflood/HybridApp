@@ -1,1 +1,1 @@
-PhoneGap Sample 1
+PhoneGap Sample 12
